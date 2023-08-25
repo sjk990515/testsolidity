@@ -528,11 +528,11 @@
 	},
 	"sources": {
 		"contracts/testtoken.sol": {
-			"keccak256": "0x51b312432e63338da29dc78f10c77ad5d88c2df962804cec53178d16d19e0377",
+			"keccak256": "0xbce1093b1f05e78baca753d9958b21e77e20e1d9c7166d60e678a99ebe2ac860",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://777c4649dc84166e5f357b5eb3a3ccd6f590d07f7c4060719faed77b558e5567",
-				"dweb:/ipfs/QmZEAgitWTSKLMmyN8yzTDPiziCcsbG1JgCBPGe15EZ9QA"
+				"bzz-raw://fcca853aa241122e5aebab4b0d9b1d8aa3ef79a98f7683fb127f00088d96a1ee",
+				"dweb:/ipfs/QmTnzJgVo1VCkjHqhwRw4cg4BgRLsGUAhrvNEuYK7H5c6b"
 			]
 		},
 		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/interfaces/draft-IERC6093.sol": {
