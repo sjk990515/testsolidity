@@ -13,7 +13,7 @@
 						"type": "string"
 					}
 				],
-				"name": "addNumber",
+				"name": "addName",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -26,7 +26,7 @@
 						"type": "string"
 					}
 				],
-				"name": "viewNumber",
+				"name": "viewName",
 				"outputs": [
 					{
 						"internalType": "address",
@@ -66,11 +66,11 @@
 	},
 	"sources": {
 		"contracts/sjgtoken.sol": {
-			"keccak256": "0xc90fb198fd9fb3bcb797e88b81a61a166a4a80921569a1a076948b51623b5e2d",
+			"keccak256": "0xe91ce4f44a2498849399a003fb6a35946c90a2deb8d6976a92e144533685ef15",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://f88a3c69090e18b78ea071eb77f47444ca6b163e79c167b6ae0f00d64c7b5ff1",
-				"dweb:/ipfs/QmbcfVDRYmomoGfDNT9H6Dm9aKPe7Kkk74hiGJuwMQm99E"
+				"bzz-raw://6d3b269a9fdf0f79919c37574eee07879c58242a91320e478be977b05fd10789",
+				"dweb:/ipfs/QmfGN7uYgqw3eFt3mjNuL1ZLA2HASymtEWPk5PbrQQbcUt"
 			]
 		}
 	},

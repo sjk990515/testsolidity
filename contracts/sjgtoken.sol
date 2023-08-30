@@ -18,18 +18,18 @@ contract first {
     // memeory : 임시 저장
 
     // 스토리지에만 저장 - 키와 값으로 데이터 저장
-    mapping (string => address) private rememberAddress;
+    mapping (string => address) private  rememberAddress;
 
     uint internal Number = 1;
 
-    function addNumber(string memory _name) public{
+    function addName(string memory _name) public{
         // require 조건이 false인 경우 error
         require(rememberAddress[_name] == address(0), "alreay key");
         // msg.sender = 사용자의 주소
         rememberAddress[_name] = msg.sender;
     }
 
-    function viewNumber(string memory _name) public view returns(address) {
+    function viewName(string memory _name) public view returns(address) {
         require(rememberAddress[_name] != address(0), "Not found");
         return rememberAddress[_name];
     }
