@@ -33,7 +33,7 @@ contract first {
         require(rememberAddress[_name] != address(0), "Not found");
         return rememberAddress[_name];
     }
-}
+} 
 
 // 컨트랙트 상속
 contract second is first {
