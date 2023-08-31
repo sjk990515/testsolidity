@@ -66,11 +66,11 @@
 	},
 	"sources": {
 		"contracts/sjgtoken.sol": {
-			"keccak256": "0x6c96b59ec2b694158f49216aa8ea756b7acf10e6a9cb6b12e2403e4424cf402d",
+			"keccak256": "0x42701bcd5930dbcdf43b113c5478f7be20f4a269886aec858559b1be760b300c",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://d94dd4033183f87b9837a320be558100969c5ef9312c3147d5491a16df2c3bc1",
-				"dweb:/ipfs/QmStWpa2kGzpnmZBvbFJXCuRRXMusm8W3PwwBBtXNJzppS"
+				"bzz-raw://f23e51732da250fb7bd054fc11f17ccbdc59fffb86aa171d6e1c6f92adcfa0b7",
+				"dweb:/ipfs/QmXJVrTt6nAYJMfG2coBjGae2tjvCjZtZXaaRx5KD6WdKy"
 			]
 		}
 	},
