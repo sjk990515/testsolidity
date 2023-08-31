@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.10+commit.fc410830"
+		"version": "0.8.20+commit.a1b79de6"
 	},
 	"language": "Solidity",
 	"output": {
@@ -53,7 +53,7 @@
 		"compilationTarget": {
 			"contracts/sjgtoken.sol": "first"
 		},
-		"evmVersion": "london",
+		"evmVersion": "shanghai",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -66,11 +66,11 @@
 	},
 	"sources": {
 		"contracts/sjgtoken.sol": {
-			"keccak256": "0x42701bcd5930dbcdf43b113c5478f7be20f4a269886aec858559b1be760b300c",
+			"keccak256": "0x534ce7c0c82284715507f64db4410630652d37175812535e351793521a43b172",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://f23e51732da250fb7bd054fc11f17ccbdc59fffb86aa171d6e1c6f92adcfa0b7",
-				"dweb:/ipfs/QmXJVrTt6nAYJMfG2coBjGae2tjvCjZtZXaaRx5KD6WdKy"
+				"bzz-raw://c8566e760ef6f13492e09dbb3b88b5c4a0f762110347dc3a6bcd6b0f06b698bf",
+				"dweb:/ipfs/QmXc51zXHWFeMiknsEEpfXyfoiq1VgCdfXBk2BpomKkrLQ"
 			]
 		}
 	},

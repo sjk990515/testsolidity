@@ -13,4 +13,3 @@ contract MyToken is ERC20 {
         _mint(msg.sender, 10000 * 10**uint(decimals()));
     }
 }
-

@@ -9,7 +9,7 @@ contract first {
     // internal : 내부&상속 호출 가능
     // external : 외부에서만 호출 가능
 
-    // 상태 가변성  
+    // 상태 가변성
     // view : 읽기O 수정X 가스X
     // pure : 읽기X 수정X 가스X
 
@@ -40,9 +40,9 @@ contract second is first {
     // 구조체 (타입)
     struct User {
         address _address;
-        uint _number;
+        uint _number; 
     }
-
+ 
     function plusNumber() public returns(User memory){
         // private함수 호출 후 사용
         User memory userAddress = User(_viewAddress(), Number);
